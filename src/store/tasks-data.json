@@ -1,0 +1,202 @@
+[
+	{
+		"id": "1",
+		"title": "Fix login bug",
+		"description": "Users cannot login with special characters in password",
+		"category": "Bug",
+		"status": "In Progress",
+		"priority": "High",
+		"createdAt": "2024-01-15T00:00:00.000Z",
+		"updatedAt": "2024-01-16T00:00:00.000Z"
+	},
+	{
+		"id": "2",
+		"title": "Add dark mode",
+		"description": "Implement dark mode toggle for better user experience",
+		"category": "Feature",
+		"status": "To Do",
+		"priority": "Medium",
+		"createdAt": "2024-01-14T00:00:00.000Z",
+		"updatedAt": "2024-01-14T00:00:00.000Z"
+	},
+	{
+		"id": "3",
+		"title": "Update API documentation",
+		"description": "Document new endpoints and update existing ones",
+		"category": "Documentation",
+		"status": "Done",
+		"priority": "Low",
+		"createdAt": "2024-01-10T00:00:00.000Z",
+		"updatedAt": "2024-01-12T00:00:00.000Z"
+	},
+	{
+		"id": "4",
+		"title": "Refactor authentication module",
+		"description": "Clean up and optimize authentication code",
+		"category": "Refactor",
+		"status": "To Do",
+		"priority": "Medium",
+		"createdAt": "2024-01-13T00:00:00.000Z",
+		"updatedAt": "2024-01-13T00:00:00.000Z"
+	},
+	{
+		"id": "5",
+		"title": "Add unit tests for user service",
+		"description": "Write comprehensive tests for user service functions",
+		"category": "Test",
+		"status": "In Progress",
+		"priority": "High",
+		"createdAt": "2024-01-11T00:00:00.000Z",
+		"updatedAt": "2024-01-15T00:00:00.000Z"
+	},
+	{
+		"id": "6",
+		"title": "Implement email notifications",
+		"description": "Send email notifications for task updates and deadlines",
+		"category": "Feature",
+		"status": "To Do",
+		"priority": "Medium",
+		"createdAt": "2024-01-16T00:00:00.000Z",
+		"updatedAt": "2024-01-16T00:00:00.000Z"
+	},
+	{
+		"id": "7",
+		"title": "Fix mobile layout issues",
+		"description": "Responsive design is broken on tablets and mobile devices",
+		"category": "Bug",
+		"status": "In Progress",
+		"priority": "High",
+		"createdAt": "2024-01-17T00:00:00.000Z",
+		"updatedAt": "2024-01-18T00:00:00.000Z"
+	},
+	{
+		"id": "8",
+		"title": "Database migration script",
+		"description": "Create migration script for new user profile fields",
+		"category": "Database",
+		"status": "Done",
+		"priority": "High",
+		"createdAt": "2024-01-08T00:00:00.000Z",
+		"updatedAt": "2024-01-09T00:00:00.000Z"
+	},
+	{
+		"id": "9",
+		"title": "Performance optimization",
+		"description": "Optimize database queries and improve page load times",
+		"category": "Performance",
+		"status": "In Progress",
+		"priority": "Medium",
+		"createdAt": "2024-01-19T00:00:00.000Z",
+		"updatedAt": "2024-01-20T00:00:00.000Z"
+	},
+	{
+		"id": "10",
+		"title": "Security audit",
+		"description": "Conduct comprehensive security audit of the application",
+		"category": "Security",
+		"status": "To Do",
+		"priority": "High",
+		"createdAt": "2024-01-21T00:00:00.000Z",
+		"updatedAt": "2024-01-21T00:00:00.000Z"
+	},
+	{
+		"id": "11",
+		"title": "User role management",
+		"description": "Implement role-based access control system",
+		"category": "Feature",
+		"status": "To Do",
+		"priority": "Medium",
+		"createdAt": "2024-01-22T00:00:00.000Z",
+		"updatedAt": "2024-01-22T00:00:00.000Z"
+	},
+	{
+		"id": "12",
+		"title": "API rate limiting",
+		"description": "Add rate limiting to prevent API abuse",
+		"category": "Security",
+		"status": "Done",
+		"priority": "Medium",
+		"createdAt": "2024-01-05T00:00:00.000Z",
+		"updatedAt": "2024-01-07T00:00:00.000Z"
+	},
+	{
+		"id": "13",
+		"title": "File upload feature",
+		"description": "Allow users to upload and manage files in tasks",
+		"category": "Feature",
+		"status": "In Progress",
+		"priority": "Low",
+		"createdAt": "2024-01-23T00:00:00.000Z",
+		"updatedAt": "2024-01-24T00:00:00.000Z"
+	},
+	{
+		"id": "14",
+		"title": "Integration tests",
+		"description": "Write integration tests for critical user workflows",
+		"category": "Test",
+		"status": "To Do",
+		"priority": "Medium",
+		"createdAt": "2024-01-25T00:00:00.000Z",
+		"updatedAt": "2024-01-25T00:00:00.000Z"
+	},
+	{
+		"id": "15",
+		"title": "Cleanup deprecated endpoints",
+		"description": "Remove old API endpoints that are no longer used",
+		"category": "Refactor",
+		"status": "Done",
+		"priority": "Low",
+		"createdAt": "2024-01-03T00:00:00.000Z",
+		"updatedAt": "2024-01-04T00:00:00.000Z"
+	},
+	{
+		"id": "16",
+		"title": "Dashboard analytics",
+		"description": "Add analytics dashboard with charts and metrics",
+		"category": "Feature",
+		"status": "To Do",
+		"priority": "Low",
+		"createdAt": "2024-01-26T00:00:00.000Z",
+		"updatedAt": "2024-01-26T00:00:00.000Z"
+	},
+	{
+		"id": "17",
+		"title": "Memory leak investigation",
+		"description": "Investigate and fix memory leaks in the background workers",
+		"category": "Bug",
+		"status": "In Progress",
+		"priority": "High",
+		"createdAt": "2024-01-27T00:00:00.000Z",
+		"updatedAt": "2024-01-28T00:00:00.000Z"
+	},
+	{
+		"id": "18",
+		"title": "Search functionality",
+		"description": "Implement full-text search for tasks and documents",
+		"category": "Feature",
+		"status": "To Do",
+		"priority": "Medium",
+		"createdAt": "2024-01-29T00:00:00.000Z",
+		"updatedAt": "2024-01-29T00:00:00.000Z"
+	},
+	{
+		"id": "19",
+		"title": "Backup strategy documentation",
+		"description": "Document backup and disaster recovery procedures",
+		"category": "Documentation",
+		"status": "To Do",
+		"priority": "Medium",
+		"createdAt": "2024-01-30T00:00:00.000Z",
+		"updatedAt": "2024-01-30T00:00:00.000Z"
+	},
+	{
+		"id": "20",
+		"title": "Cache optimization",
+		"description": "Optimize Redis caching strategy for better performance",
+		"category": "Performance",
+		"status": "Done",
+		"priority": "Medium",
+		"createdAt": "2024-01-01T00:00:00.000Z",
+		"updatedAt": "2024-01-02T00:00:00.000Z"
+	}
+]
