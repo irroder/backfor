@@ -202,9 +202,8 @@ app.delete("/api/tasks/:id", (req: Request<{ id: string }>, res: Response) => {
 
 app.use(errorHandler);
 
-// // Export для Vercel
-// export default app;
+export default app;
 
-app.listen(3000, () => {
-	console.log(`Сервер запущен на порту ${3000}`);
-});
+// app.listen(3000, () => {
+// 	console.log(`Сервер запущен на порту ${3000}`);
+// });
